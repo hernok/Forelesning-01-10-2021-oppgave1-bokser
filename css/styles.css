@@ -1,0 +1,52 @@
+.box-card-1 {
+  width: 300px;
+  height: 500px;
+  border: 1px lightgray solid;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  margin: 10px;
+}
+.box-card-1-1 {
+  width: 100%;
+  height: 50%;
+  top: 0px;
+  left: 0px;
+  background-color: gray;
+  border-radius: 5px 5px 0 0;
+  position: absolute;
+}
+.box-card-1-2 {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  bottom: 0px;
+  border-radius: 0 0 5px 5px;
+  position: absolute;
+}
+.image-cap-1 {
+  color: white;
+  top: 200px;
+  text-align: center;
+  font-size: 1.5em;
+}
+.box-card-1-title {
+  font-size: 2em;
+}
+.box-card-1-text {
+  font-size: 1.3em;
+}
+.button-card-1 {
+  width: 160px;
+  background-color: #116dfc;
+  left: 0px;
+  bottom: 0px;
+  border-radius: 7px;
+  border: solid #116dfc;
+}
+.button-card-1-text {
+  color: white;
+  font-family: Georgia;
+  font-size: 1.25em;
+  top: auto;
+}
